@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-	count<<"Hello,Git!";
+	cout<<"Hello,Git!";
+	cout<<"Hello I am varshini";
 	return 0;
 }
